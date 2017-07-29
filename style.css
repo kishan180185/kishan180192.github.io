@@ -83,6 +83,7 @@ header {
     text-transform: uppercase;
     border-bottom: 2px solid transparent;
     transition: border-bottom 0.2s;
+    font-weight: 500;
 }
 
 .main-nav li a:hover,
