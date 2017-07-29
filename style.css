@@ -419,7 +419,7 @@ margin: 180px 0px 0px 230px;
   transition: .5s ease;
   opacity: 0;
   top: 50%;
-  left: 50%;
+  left: 49%;
   position: absolute;
   transform: translate(-60%, -30%);
   -ms-transform: translate(-50%, -50%);
