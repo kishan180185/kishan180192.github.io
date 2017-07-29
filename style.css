@@ -72,6 +72,7 @@ header {
 .main-nav li {
     display: inline-block;
     margin-left: 50px;
+    font-weight: 500;
 
 }
 
