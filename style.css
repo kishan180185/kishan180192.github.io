@@ -65,8 +65,8 @@ header {
 .main-nav {
     float: right;
     list-style: none;
-    margin-top: 55px;
-    margin-right: 100px;
+    margin-top: 60px;
+    
 }
 
 .main-nav li {
@@ -83,7 +83,8 @@ header {
     text-transform: uppercase;
     border-bottom: 2px solid transparent;
     transition: border-bottom 0.2s;
-    font-weight: 500;
+    font-weight: 600;
+    font-size: 22px;
 }
 
 .main-nav li a:hover,
